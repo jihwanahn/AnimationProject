@@ -1,0 +1,2 @@
+F:\Develop\AnimationProject\x64\Debug\AnimationProject.exe
+F:\Develop\AnimationProject\x64\Debug\AnimationProject.pdb
